@@ -1,5 +1,5 @@
 ##########
-django CMS
+possibly.click-django CMS; a fork
 ##########
 .. image:: https://travis-ci.org/django-cms/django-cms.svg?branch=develop
     :target: https://travis-ci.org/django-cms/django-cms
@@ -13,14 +13,15 @@ django CMS
    :target: https://codeclimate.com/github/divio/django-cms
    :alt: Code Climate
 
-Open source enterprise content management system based on the Django framework and backed by the non-profit django CMS Association. `Get involved in the dCA <https://www.django-cms.org/en/contribute/>`_ and `win rewards! <https://www.django-cms.org/en/bounty-program/>`_
+Decription from Creators - "Open source enterprise content management system based on the Django framework and backed by the non-profit django CMS Association"
 
+Description from me -
 
-.. ATTENTION::
+A fork to add details for absolute beginners (such as myself) to get up and running on a production server (VPS and or home server/rasberry pi).
 
-    Please use the ``develop`` branch as the target for pull requests for on-going development.
+I know there are tutorials of various methods for getting everything up and running but so far as of yet I have not been able to. I am going to attempt to cover everything in as consise a way as possible to help the average user.
 
-    Security fixes will be backported to older branches by the core team as appropriate.
+I will add quotes "" for original text, extra info, links, comments, comic relief, remove un-nessasary info and attempt to understand what it is we are trying to do (namely build a good running universal base for future projects; portfolio, blog, art gallery, social api intergration, e-commerce integration, tryton integration etc.)" 
 
 
 ********
@@ -47,8 +48,13 @@ More information on `our website <https://www.django-cms.org>`_.
 Requirements
 ************
 
-See the `Python/Django requirements for the current release version
-<http://docs.django-cms.org/en/latest/#software-version-requirements-and-release-notes>`_ in our documentation.
+"See the `Python/Django requirements for the current release version
+<http://docs.django-cms.org/en/latest/#software-version-requirements-and-release-notes>`_ in our documentation."
+This table is hella confusing but it looks like the latest django-cms 4.0 is compatible with the latest python 3.9.
+the lastest
+
+
+
 
 See the `installation how-to guide for an overview of some other requirements and dependencies of the current release
 <http://docs.django-cms.org/en/latest/how_to/install.html>`_
